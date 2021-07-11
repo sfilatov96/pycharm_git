@@ -39,5 +39,4 @@ class Solution:
 
 if __name__ == "__main__":
     l1 = ListNode(val=0)
-
     Solution().addTwoNumbers(l1, l1)
