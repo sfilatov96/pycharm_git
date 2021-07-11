@@ -37,9 +37,6 @@ class Solution:
         return self.calculate(sum_)
 
 
-
-
-
 if __name__ == "__main__":
     l1 = ListNode(val=0)
 
